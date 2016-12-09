@@ -11,7 +11,7 @@
 
 <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
     <application>
-         <activity android:name=".MainActivity" android:label="MainActivity">
+         <activity android:name=".MainActivity" android:label="VirtualClick">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
